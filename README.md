@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Camile👋
 
 
-- 🔭 Hoje eu estou trabalhando com front-end e web-design
+- 🔭 Hoje eu estou trabalhando com desenvolvimento front-end
 - 🌱 Estou estudando javascript e UX/UI
 - 📫 Entre em contato comigo por email: camilerighetti7@gmail.com
 
